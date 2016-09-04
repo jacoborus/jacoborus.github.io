@@ -105,3 +105,17 @@ span.box {
     width: 25%;
   }
 }
+@media (max-width: 42em) {
+  header.header h1 {
+    font-size: 3.7rem;
+  }
+  #projects article h2 {
+    font-size: 2.7rem;
+  }
+  #projects article p {
+    font-size: 1.7rem;
+  }
+  #projects article a {
+    font-size: 1.2rem;
+  }
+}
