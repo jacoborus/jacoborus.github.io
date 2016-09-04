@@ -10,9 +10,11 @@ body {
 }
 /* HEADER */
 header.header {
-  margin-bottom: 4rem;
+  float: left;
+  width: 100%;
 }
 header.header h1 {
+  float: left;
   font-weight: 900;
   font-size: 2.6em;
   letter-spacing: -2px;
@@ -25,17 +27,13 @@ header.header h1 span.titulo-2 {
   color: #888;
 }
 .social {
-  margin: 4.3em 0;
-  text-align: right;
-}
-.social a.twitter {
-  margin-left: 1em;
+  margin-left: 1rem;
 }
 /* PROJECTS */
-#projects article {
-  border-left: 3px solid #444;
-  padding-left: 1rem;
+header.header, #projects article {
+  padding-left: 3rem;
   margin-bottom: 3rem;
+  box-sizing: border-box;
 }
 #projects article h1 {
   color: #aaa;
