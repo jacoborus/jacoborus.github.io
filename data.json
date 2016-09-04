@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "nanobar",
+      "showUrl": "nanobar.jacoborus.codes",
+      "url": "http://nanobar.jacoborus.codes",
+      "description": "lightweight progress bars for browsers"
+    },
+    {
+      "title": "arbitrary-emitter",
+      "showUrl": "arbitrary-emitter.jacoborus.codes",
+      "url": "http://arbitrary-emitter.jacoborus.codes",
+      "description": "Event emitter for the new generation of browsers"
+    }
+  ]
+}
