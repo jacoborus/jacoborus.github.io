@@ -41,6 +41,24 @@
       "showUrl": "github.com/jacoborus/dotfiles",
       "url": "https://github.com/jacoborus/dotfiles",
       "description": "Config files for neovim, tmux, zsh, bash, ..."
+    },
+    {
+      "title": "safename",
+      "showUrl": "github.com/jacoborus/safename",
+      "url": "https://github.com/jacoborus/safename",
+      "description": "Get safe file name from a given string"
+    },
+    {
+      "title": "hexterm",
+      "showUrl": "github.com/jacoborus/hexterm",
+      "url": "https://github.com/jacoborus/hexterm",
+      "description": "Convert hexadecimal colors to closest xterm"
+    },
+    {
+      "title": "curlymail",
+      "showUrl": "github.com/jacoborus/curlymail",
+      "url": "https://github.com/jacoborus/curlymail",
+      "description": "SMTP email sending with mustache templates"
     }
   ]
 }
