@@ -19,15 +19,15 @@ body
       span(class="titulo-2") rus
       span(class="titulo-1") .
       span(class="titulo-2") codes
-      a(class="social" href="https://github.com/jacoborus", target="blank", title="Github")
+      a.social(href="https://github.com/jacoborus", target="blank", title="Github")
         img(src="img/github.svg")
-      a.twitter(class="social" href="https://twitter.com/jacoborus", target="blank", title="Twitter")
+      a.social.twitter(href="https://twitter.com/jacoborus", target="blank", title="Twitter")
         img(src="img/twitter.svg")
 
   section#projects.pure-g
     each project in projects
       article
-        h1.logo= project.title
+        h2= project.title
         p= project.description
         a(href=project.url, title=project.title, target="blank")= project.showUrl
 

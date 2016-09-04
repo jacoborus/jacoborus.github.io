@@ -12,11 +12,11 @@ body {
 header.header {
   float: left;
   width: 100%;
+  margin-top: 2rem;
 }
 header.header h1 {
   float: left;
   font-weight: 900;
-  font-size: 2.6em;
   letter-spacing: -2px;
   font-family: 'Lato', sans-serif;
 }
@@ -26,8 +26,20 @@ header.header h1 span.titulo-1 {
 header.header h1 span.titulo-2 {
   color: #888;
 }
-.social {
+a.social {
   margin-left: 1rem;
+  display: inline-block;
+  border-radius: 3rem;
+  padding: .4rem;
+}
+a.social.twitter {
+  margin-left: 0;
+}
+a.social:hover {
+  background: #fff;
+}
+.social img {
+  width: 1.6rem;
 }
 /* PROJECTS */
 header.header, #projects article {
@@ -35,7 +47,7 @@ header.header, #projects article {
   margin-bottom: 3rem;
   box-sizing: border-box;
 }
-#projects article h1 {
+#projects article h2 {
   color: #aaa;
 }
 #projects article p {
@@ -46,6 +58,6 @@ header.header, #projects article {
   font-weight: 700;
   color: #666;
 }
-#projects article p a:hover {
-  text-decoration: underline;
+#projects article a:hover {
+  color: #ddd;
 }
