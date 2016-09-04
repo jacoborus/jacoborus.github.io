@@ -61,6 +61,18 @@
       "description": "Load distributed json files (node.js)"
     },
     {
+      "title": "nuts",
+      "showUrl": "github.com/jacoborus/nuts",
+      "url": "https://github.com/jacoborus/nuts",
+      "description": "HTML template engine for Node.js"
+    },
+    {
+      "title": "live-nuts",
+      "showUrl": "github.com/jacoborus/live-nuts",
+      "url": "https://github.com/jacoborus/live-nuts",
+      "description": "Live templates with nuts syntax"
+    },
+    {
       "title": "estilo",
       "showUrl": "github.com/jacoborus/estilo",
       "url": "https://github.com/jacoborus/estilo",
