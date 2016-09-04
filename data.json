@@ -55,6 +55,18 @@
       "description": "Convert hexadecimal colors to closest xterm"
     },
     {
+      "title": "deepjson",
+      "showUrl": "github.com/jacoborus/deepjson",
+      "url": "https://github.com/jacoborus/deepjson",
+      "description": "Load distributed json files (node.js)"
+    },
+    {
+      "title": "estilo",
+      "showUrl": "github.com/jacoborus/estilo",
+      "url": "https://github.com/jacoborus/estilo",
+      "description": "Vim colorscheme generator"
+    },
+    {
       "title": "curlymail",
       "showUrl": "github.com/jacoborus/curlymail",
       "url": "https://github.com/jacoborus/curlymail",
