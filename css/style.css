@@ -22,8 +22,10 @@ header.header {
 header.header h1 {
   float: left;
   font-weight: 900;
-  letter-spacing: -2px;
+  letter-spacing: -4px;
+  font-size: 4rem;
   font-family: 'Lato', sans-serif;
+  margin: 0;
 }
 header.header h1 span.titulo-1 {
   color: #ccc;
@@ -34,8 +36,8 @@ header.header h1 span.titulo-2 {
 a.social {
   margin-left: 1rem;
   display: inline-block;
-  border-radius: 3rem;
-  padding: .4rem;
+  border-radius: 1px;
+  padding: 0 1rem;
 }
 a.social.twitter {
   margin-left: 0;
@@ -44,7 +46,10 @@ a.social:hover {
   background: #fff;
 }
 .social img {
-  width: 1.6rem;
+  width: 2.6rem;
+}
+span.box {
+  display: inline-block;
 }
 /* PROJECTS */
 #projects {
@@ -62,31 +67,40 @@ a.social:hover {
 }
 #projects article h2 {
   color: #bbb;
-  font-size: 1rem;
+  font-size: 3rem;
+  letter-spacing: -2px;
+  font-weight: 900;
+  margin: 0;
 }
 #projects article p {
   color: #999;
+  font-size: 2rem;
+  letter-spacing: -1px;
+  margin: 0;
 }
 #projects article a {
   text-decoration: none;
+  font-size: 1.5rem;
   font-weight: 700;
   color: #666;
+  border-bottom: 0.2rem dotted;
+  margin: 0;
 }
 #projects article a:hover {
   color: #ddd;
 }
 
-@media (min-width: 54em) {
+@media (min-width: 64em) {
   #projects article {
     width: 50%;
   }
 }
-@media (min-width: 75em) {
+@media (min-width: 82em) {
   #projects article {
     width: 33.3%;
   }
 }
-@media (min-width: 92em) {
+@media (min-width: 100em) {
   #projects article {
     width: 25%;
   }

@@ -16,14 +16,17 @@ body
   .wrap
     header.header
       h1
-        span(class="titulo-1") jacobo
-        span(class="titulo-2") rus
-        span(class="titulo-1") .
-        span(class="titulo-2") codes
-        a.social(href="https://github.com/jacoborus", target="blank", title="Github")
-          img(src="img/github.svg")
-        a.social.twitter(href="https://twitter.com/jacoborus", target="blank", title="Twitter")
-          img(src="img/twitter.svg")
+        span.box
+          span(class="titulo-1") jacobo
+          span(class="titulo-2") rus
+        span.box
+          span(class="titulo-1") .
+          span(class="titulo-2") codes
+        span.box
+          a.social(href="https://github.com/jacoborus", target="blank", title="Github")
+            img(src="img/github.svg")
+          a.social.twitter(href="https://twitter.com/jacoborus", target="blank", title="Twitter")
+            img(src="img/twitter.svg")
 
     section#projects
       each project in projects
