@@ -8,11 +8,16 @@ body a {
 body {
   background: #282828;
 }
+.wrap {
+  padding: 1.5rem;
+}
+
 /* HEADER */
 header.header {
   float: left;
   width: 100%;
-  margin-top: 2rem;
+  clear: both;
+  margin-bottom: 3rem;
 }
 header.header h1 {
   float: left;
@@ -42,13 +47,22 @@ a.social:hover {
   width: 1.6rem;
 }
 /* PROJECTS */
-header.header, #projects article {
-  padding-left: 3rem;
+#projects {
+  float: left;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: -2rem;
+}
+#projects article {
   margin-bottom: 3rem;
+  width: 100%;
+  padding-left: 2rem;
   box-sizing: border-box;
 }
 #projects article h2 {
-  color: #aaa;
+  color: #bbb;
+  font-size: 1rem;
 }
 #projects article p {
   color: #888;
@@ -60,4 +74,20 @@ header.header, #projects article {
 }
 #projects article a:hover {
   color: #ddd;
+}
+
+@media (min-width: 54em) {
+  #projects article {
+    width: 50%;
+  }
+}
+@media (min-width: 75em) {
+  #projects article {
+    width: 33.3%;
+  }
+}
+@media (min-width: 92em) {
+  #projects article {
+    width: 25%;
+  }
 }

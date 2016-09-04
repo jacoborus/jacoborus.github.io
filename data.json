@@ -17,6 +17,30 @@
       "showUrl": "github.com/jacoborus/boxes",
       "url": "https://github.com/jacoborus/boxes",
       "description": "Mutable state containers for javascript apps"
+    },
+    {
+      "title": "wiretree",
+      "showUrl": "wiretree.jacoborus.codes",
+      "url": "https://wiretree.jacoborus.codes",
+      "description": "Dependency injection framework for node.js"
+    },
+    {
+      "title": "tender",
+      "showUrl": "github.com/jacoborus/tender",
+      "url": "https://github.com/jacoborus/tender",
+      "description": "A 24 bit color scheme for Vim"
+    },
+    {
+      "title": "miniruler",
+      "showUrl": "github.com/jacoborus/miniruler",
+      "url": "https://github.com/jacoborus/miniruler",
+      "description": "Manage roles in contexts (js)"
+    },
+    {
+      "title": "dotfiles",
+      "showUrl": "github.com/jacoborus/dotfiles",
+      "url": "https://github.com/jacoborus/dotfiles",
+      "description": "Config files for neovim, tmux, zsh, bash, ..."
     }
   ]
 }
