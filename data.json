@@ -21,7 +21,7 @@
     {
       "title": "wiretree",
       "showUrl": "wiretree.jacoborus.codes",
-      "url": "https://wiretree.jacoborus.codes",
+      "url": "http://wiretree.jacoborus.codes",
       "description": "Dependency injection framework for node.js"
     },
     {
@@ -32,21 +32,21 @@
     },
     {
       "title": "deepjson",
-      "showUrl": "github.com/jacoborus/deepjson",
-      "url": "https://github.com/jacoborus/deepjson",
+      "showUrl": "deepjson.jacoborus.codes",
+      "url": "http://deepjson.jacoborus.codes",
       "description": "Load distributed json files (node.js)"
     },
     {
       "title": "curlymail",
-      "showUrl": "github.com/jacoborus/curlymail",
-      "url": "https://github.com/jacoborus/curlymail",
+      "showUrl": "curlymail.jacoborus.codes",
+      "url": "http://curlymail.jacoborus.codes",
       "description": "SMTP email sending with mustache templates"
     },
     {
-      "title": "miniruler",
-      "showUrl": "github.com/jacoborus/miniruler",
-      "url": "https://github.com/jacoborus/miniruler",
-      "description": "Manage roles in contexts (js)"
+      "title": "estilo",
+      "showUrl": "github.com/jacoborus/estilo",
+      "url": "https://github.com/jacoborus/estilo",
+      "description": "Vim colorscheme generator"
     },
     {
       "title": "safename",
@@ -55,22 +55,22 @@
       "description": "Get safe file name from a given string"
     },
     {
-      "title": "dotfiles",
-      "showUrl": "github.com/jacoborus/dotfiles",
-      "url": "https://github.com/jacoborus/dotfiles",
-      "description": "Config files for neovim, tmux, zsh, bash, ..."
-    },
-    {
       "title": "hexterm",
       "showUrl": "github.com/jacoborus/hexterm",
       "url": "https://github.com/jacoborus/hexterm",
       "description": "Convert hexadecimal colors to closest xterm"
     },
     {
-      "title": "estilo",
-      "showUrl": "github.com/jacoborus/estilo",
-      "url": "https://github.com/jacoborus/estilo",
-      "description": "Vim colorscheme generator"
+      "title": "dotfiles",
+      "showUrl": "github.com/jacoborus/dotfiles",
+      "url": "https://github.com/jacoborus/dotfiles",
+      "description": "Config files for neovim, tmux, zsh, bash, ..."
+    },
+    {
+      "title": "miniruler",
+      "showUrl": "github.com/jacoborus/miniruler",
+      "url": "https://github.com/jacoborus/miniruler",
+      "description": "Manage roles in contexts (js)"
     },
     {
       "title": "jetKit",
@@ -95,6 +95,12 @@
       "showUrl": "github.com/jacoborus/express-nuts",
       "url": "https://github.com/jacoborus/express-nuts",
       "description": "Nuts templates adapter for Express.js"
+    },
+    {
+      "title": "ThePokerClock",
+      "showUrl": "thepokerclock.com",
+      "url": "http://thepokerclock.com",
+      "description": "Simple online poker timer"
     }
   ]
 }
