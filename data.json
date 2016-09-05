@@ -7,16 +7,16 @@
       "description": "Lightweight progress bars for browsers"
     },
     {
-      "title": "arbitrary-emitter",
-      "showUrl": "arbitrary-emitter.jacoborus.codes",
-      "url": "http://arbitrary-emitter.jacoborus.codes",
-      "description": "Event emitter for the new generation of browsers"
-    },
-    {
       "title": "boxes",
       "showUrl": "github.com/jacoborus/boxes",
       "url": "https://github.com/jacoborus/boxes",
       "description": "Mutable state containers for javascript apps"
+    },
+    {
+      "title": "arbitrary-emitter",
+      "showUrl": "arbitrary-emitter.jacoborus.codes",
+      "url": "http://arbitrary-emitter.jacoborus.codes",
+      "description": "Event emitter for the new generation of browsers"
     },
     {
       "title": "wiretree",
@@ -31,16 +31,22 @@
       "description": "A 24 bit color scheme for Vim"
     },
     {
+      "title": "deepjson",
+      "showUrl": "github.com/jacoborus/deepjson",
+      "url": "https://github.com/jacoborus/deepjson",
+      "description": "Load distributed json files (node.js)"
+    },
+    {
+      "title": "curlymail",
+      "showUrl": "github.com/jacoborus/curlymail",
+      "url": "https://github.com/jacoborus/curlymail",
+      "description": "SMTP email sending with mustache templates"
+    },
+    {
       "title": "miniruler",
       "showUrl": "github.com/jacoborus/miniruler",
       "url": "https://github.com/jacoborus/miniruler",
       "description": "Manage roles in contexts (js)"
-    },
-    {
-      "title": "dotfiles",
-      "showUrl": "github.com/jacoborus/dotfiles",
-      "url": "https://github.com/jacoborus/dotfiles",
-      "description": "Config files for neovim, tmux, zsh, bash, ..."
     },
     {
       "title": "safename",
@@ -49,16 +55,28 @@
       "description": "Get safe file name from a given string"
     },
     {
+      "title": "dotfiles",
+      "showUrl": "github.com/jacoborus/dotfiles",
+      "url": "https://github.com/jacoborus/dotfiles",
+      "description": "Config files for neovim, tmux, zsh, bash, ..."
+    },
+    {
       "title": "hexterm",
       "showUrl": "github.com/jacoborus/hexterm",
       "url": "https://github.com/jacoborus/hexterm",
       "description": "Convert hexadecimal colors to closest xterm"
     },
     {
-      "title": "deepjson",
-      "showUrl": "github.com/jacoborus/deepjson",
-      "url": "https://github.com/jacoborus/deepjson",
-      "description": "Load distributed json files (node.js)"
+      "title": "estilo",
+      "showUrl": "github.com/jacoborus/estilo",
+      "url": "https://github.com/jacoborus/estilo",
+      "description": "Vim colorscheme generator"
+    },
+    {
+      "title": "jetKit",
+      "showUrl": "github.com/jacoborus/jetkit",
+      "url": "https://github.com/jacoborus/jetkit",
+      "description": "Dynamic website generator for node (alpha)"
     },
     {
       "title": "nuts",
@@ -70,19 +88,13 @@
       "title": "live-nuts",
       "showUrl": "github.com/jacoborus/live-nuts",
       "url": "https://github.com/jacoborus/live-nuts",
-      "description": "Live templates with nuts syntax"
+      "description": "Live templates with nuts syntax (alpha)"
     },
     {
-      "title": "estilo",
-      "showUrl": "github.com/jacoborus/estilo",
-      "url": "https://github.com/jacoborus/estilo",
-      "description": "Vim colorscheme generator"
-    },
-    {
-      "title": "curlymail",
-      "showUrl": "github.com/jacoborus/curlymail",
-      "url": "https://github.com/jacoborus/curlymail",
-      "description": "SMTP email sending with mustache templates"
+      "title": "express-nuts",
+      "showUrl": "github.com/jacoborus/express-nuts",
+      "url": "https://github.com/jacoborus/express-nuts",
+      "description": "Nuts templates adapter for Express.js"
     }
   ]
 }

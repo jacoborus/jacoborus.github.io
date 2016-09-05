@@ -80,10 +80,11 @@ span.box {
   margin: 0;
 }
 #projects article p {
+  margin: 0;
+  font-weight: 700;
   color: #999;
   font-size: 2rem;
   letter-spacing: -1px;
-  margin: 0;
 }
 #projects article a {
   text-decoration: none;
@@ -101,10 +102,16 @@ span.box {
   #projects article {
     width: 50%;
   }
+  .wrap {
+    padding: 2.5rem;
+  }
 }
 @media (min-width: 82em) {
   #projects article {
     width: 33.3%;
+  }
+  .wrap {
+    padding: 3.5rem;
   }
 }
 @media (min-width: 100em) {
