@@ -16,7 +16,7 @@
       "title": "arbitrary-emitter",
       "showUrl": "arbitrary-emitter.jacoborus.codes",
       "url": "http://arbitrary-emitter.jacoborus.codes",
-      "description": "Event emitter for the new generation of browsers"
+      "description": "High performance event emitter for modern browsers"
     },
     {
       "title": "wiretree",
@@ -46,7 +46,7 @@
       "title": "estilo",
       "showUrl": "github.com/jacoborus/estilo",
       "url": "https://github.com/jacoborus/estilo",
-      "description": "Vim colorscheme generator"
+      "description": "Create color schemes for Vim, Airline and Lightline"
     },
     {
       "title": "safename",
