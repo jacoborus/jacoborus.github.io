@@ -7,10 +7,10 @@
       "description": "Lightweight progress bars for browsers"
     },
     {
-      "title": "boxes",
-      "showUrl": "github.com/jacoborus/boxes",
-      "url": "https://github.com/jacoborus/boxes",
-      "description": "Mutable state containers for javascript apps"
+      "title": "miniruler",
+      "showUrl": "github.com/jacoborus/miniruler",
+      "url": "https://github.com/jacoborus/miniruler",
+      "description": "Manage roles in contexts (js)"
     },
     {
       "title": "arbitrary-emitter",
@@ -37,16 +37,16 @@
       "description": "Load distributed json files (node.js)"
     },
     {
-      "title": "curlymail",
-      "showUrl": "curlymail.jacoborus.codes",
-      "url": "http://curlymail.jacoborus.codes",
-      "description": "SMTP email sending with mustache templates"
-    },
-    {
       "title": "estilo",
       "showUrl": "github.com/jacoborus/estilo",
       "url": "https://github.com/jacoborus/estilo",
       "description": "Create color schemes for Vim, Airline and Lightline"
+    },
+    {
+      "title": "boxes",
+      "showUrl": "github.com/jacoborus/boxes",
+      "url": "https://github.com/jacoborus/boxes",
+      "description": "Mutable state containers for javascript apps"
     },
     {
       "title": "safename",
@@ -67,40 +67,10 @@
       "description": "Config files for neovim, tmux, zsh, bash, ..."
     },
     {
-      "title": "miniruler",
-      "showUrl": "github.com/jacoborus/miniruler",
-      "url": "https://github.com/jacoborus/miniruler",
-      "description": "Manage roles in contexts (js)"
-    },
-    {
-      "title": "jetKit",
-      "showUrl": "github.com/jacoborus/jetkit",
-      "url": "https://github.com/jacoborus/jetkit",
-      "description": "Dynamic website generator for node (alpha)"
-    },
-    {
-      "title": "nuts",
-      "showUrl": "github.com/jacoborus/nuts",
-      "url": "https://github.com/jacoborus/nuts",
-      "description": "HTML template engine for Node.js"
-    },
-    {
-      "title": "live-nuts",
-      "showUrl": "github.com/jacoborus/live-nuts",
-      "url": "https://github.com/jacoborus/live-nuts",
-      "description": "Live templates with nuts syntax (alpha)"
-    },
-    {
-      "title": "express-nuts",
-      "showUrl": "github.com/jacoborus/express-nuts",
-      "url": "https://github.com/jacoborus/express-nuts",
-      "description": "Nuts templates adapter for Express.js"
-    },
-    {
-      "title": "ThePokerClock",
-      "showUrl": "thepokerclock.com",
-      "url": "http://thepokerclock.com",
-      "description": "Simple online poker timer"
+      "title": "curlymail",
+      "showUrl": "curlymail.jacoborus.codes",
+      "url": "http://curlymail.jacoborus.codes",
+      "description": "SMTP email sending with mustache templates"
     }
   ]
 }
