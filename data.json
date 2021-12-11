@@ -1,40 +1,16 @@
 {
   "projects": [
     {
+      "title": "deno-buckets",
+      "showUrl": "github.com/jacoborus/deno-buckets",
+      "url": "https://github.com/jacoborus/deno-buckets",
+      "description": "Asset bundler for Deno apps"
+    },
+    {
       "title": "nanobar",
       "showUrl": "nanobar.jacoborus.codes",
       "url": "http://nanobar.jacoborus.codes",
       "description": "Lightweight progress bars for browsers"
-    },
-    {
-      "title": "miniruler",
-      "showUrl": "github.com/jacoborus/miniruler",
-      "url": "https://github.com/jacoborus/miniruler",
-      "description": "Manage roles in contexts (js)"
-    },
-    {
-      "title": "arbitrary-emitter",
-      "showUrl": "arbitrary-emitter.jacoborus.codes",
-      "url": "http://arbitrary-emitter.jacoborus.codes",
-      "description": "High performance event emitter for modern browsers"
-    },
-    {
-      "title": "wiretree",
-      "showUrl": "wiretree.jacoborus.codes",
-      "url": "http://wiretree.jacoborus.codes",
-      "description": "Dependency injection framework for node.js"
-    },
-    {
-      "title": "tender",
-      "showUrl": "github.com/jacoborus/tender",
-      "url": "https://github.com/jacoborus/tender",
-      "description": "A 24 bit color scheme for Vim"
-    },
-    {
-      "title": "deepjson",
-      "showUrl": "deepjson.jacoborus.codes",
-      "url": "http://deepjson.jacoborus.codes",
-      "description": "Load distributed json files (node.js)"
     },
     {
       "title": "estilo",
@@ -43,10 +19,16 @@
       "description": "Create color schemes for Vim, Airline and Lightline"
     },
     {
-      "title": "boxes",
-      "showUrl": "github.com/jacoborus/boxes",
-      "url": "https://github.com/jacoborus/boxes",
-      "description": "Mutable state containers for javascript apps"
+      "title": "tender",
+      "showUrl": "github.com/jacoborus/tender",
+      "url": "https://github.com/jacoborus/tender",
+      "description": "A 24 bit color scheme for Vim"
+    },
+    {
+      "title": "weak-emitter",
+      "showUrl": "github.com/jacoborus/weak-emitter",
+      "url": "https://github.com/jacoborus/weak-emitter",
+      "description": "High performance event emitter for modern browsers"
     },
     {
       "title": "safename",
@@ -67,10 +49,16 @@
       "description": "Config files for neovim, tmux, zsh, bash, ..."
     },
     {
-      "title": "curlymail",
-      "showUrl": "curlymail.jacoborus.codes",
-      "url": "http://curlymail.jacoborus.codes",
-      "description": "SMTP email sending with mustache templates"
+      "title": "miniruler",
+      "showUrl": "github.com/jacoborus/miniruler",
+      "url": "https://github.com/jacoborus/miniruler",
+      "description": "Manage roles in contexts (js)"
+    },
+    {
+      "title": "boxes",
+      "showUrl": "github.com/jacoborus/boxes",
+      "url": "https://github.com/jacoborus/boxes",
+      "description": "Mutable state containers for javascript apps"
     }
   ]
 }
