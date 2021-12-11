@@ -34,7 +34,7 @@
       "title": "safename",
       "showUrl": "github.com/jacoborus/safename",
       "url": "https://github.com/jacoborus/safename",
-      "description": "Get safe file name from a given string"
+      "description": "Normalize and transform diacritics, dashes, and spaces"
     },
     {
       "title": "hexterm",
