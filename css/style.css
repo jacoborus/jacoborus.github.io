@@ -50,6 +50,7 @@ a.social {
   display: inline-block;
   border-radius: 1px;
   padding: 0 1rem;
+  border-radius: 3rem;
 }
 a.social.twitter {
   margin-left: 0;
